@@ -1,0 +1,2 @@
+# Atividade 4 HTML e CSS
+Nessa ativiadade o professor solicitou que criassemos uma biografia de alguém, escolhi o artista Matue, e utilizei HTML e CSS para estilizar a página, contendo imagens e link interativo.
